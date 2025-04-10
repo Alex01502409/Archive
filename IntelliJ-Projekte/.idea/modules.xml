@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IT-Proger/IT-Proger.iml" filepath="$PROJECT_DIR$/IT-Proger/IT-Proger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IT-Proger_Java-Swing-JFrame/IT-Proger_Java-Swing-JFrame.iml" filepath="$PROJECT_DIR$/IT-Proger_Java-Swing-JFrame/IT-Proger_Java-Swing-JFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IntelliJ-Projekte.iml" filepath="$PROJECT_DIR$/.idea/IntelliJ-Projekte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar-Programierung/Seminar-Programierung.iml" filepath="$PROJECT_DIR$/Seminar-Programierung/Seminar-Programierung.iml" />
+    </modules>
+  </component>
+</project>
